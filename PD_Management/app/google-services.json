@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "330697285855",
+    "project_id": "pd-management-a77d9",
+    "storage_bucket": "pd-management-a77d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330697285855:android:a5e031b6c63ca70fc4496a",
+        "android_client_info": {
+          "package_name": "com.example.pd_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC548skPTh2E33-Rmc8gRBXZJo_1131rnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
